@@ -3,7 +3,7 @@ Applying five different Machine Learning Classification Techniques in three diff
 
 ## PROJECT DESCRIPTIONS IN DETAIL :
 
-* FraudulentTransactionsIdentification:
+* <b>FraudulentTransactionsIdentification:<b>
 Analysing 10,48,575 credit card transactions history to identify fraudulent and non‐fraudulent transactions by training two machine learning models: Decision Tree and Extreme Gradient Boosting. Finally, compare the models’ performances on the test data using ROC Curve, AUC, Confusion Matrix etc.
 
 * Airline Passenger Satisfaction Prediction: 
